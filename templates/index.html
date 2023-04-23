@@ -1,0 +1,18 @@
+{% load static %}
+<html>
+  <head>
+    <title>Capstone Project</title>
+    <link
+      rel="preload"
+      as="style"
+      href="{% static 'css/style.css' %}"
+      onload="this.rel = 'stylesheet'"
+    />
+  </head>
+  <body>
+    <header>
+      <img src="{% static 'img/logo.png' %}" />
+    </header>
+    <h1 style="text-align: center">Welcome To LittleLemon Restaurant</h1>
+  </body>
+</html>
