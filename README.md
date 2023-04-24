@@ -38,7 +38,7 @@ Meta Back-End Developer Capstone Project.
 
 ### Another way to generate the User Authentication Token
 
-restaurant/api-token-auth
+/restaurant/api-token-auth
 
 ### Remove User Authentication Token
 
