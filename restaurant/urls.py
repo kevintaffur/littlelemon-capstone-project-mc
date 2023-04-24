@@ -1,6 +1,6 @@
 from django.urls import path
 from . import views
-# This is another way to get the token (whitout djoser).
+# This is another way to get the token (without djoser).
 from rest_framework.authtoken.views import obtain_auth_token
 
 urlpatterns = [
