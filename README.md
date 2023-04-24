@@ -14,7 +14,7 @@ Meta Back-End Developer Capstone Project.
 
 ### Single Menu Item
 
-/restaurant/menu/<itemId>
+/restaurant/menu/{itemId}
 
 ### Booking Tables
 
@@ -22,7 +22,7 @@ Meta Back-End Developer Capstone Project.
 
 ### Single Booking Table
 
-/restaurant/booking/tables/<bookingId>
+/restaurant/booking/tables/{bookingId}
 
 ### Users
 
